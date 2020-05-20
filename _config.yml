@@ -6,3 +6,4 @@ google_analytics:
 theme: jekyll-theme-minimal
 use_github_avatar: true
 github_username: pages-themes
+show_description: true
