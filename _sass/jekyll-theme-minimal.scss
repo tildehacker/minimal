@@ -45,7 +45,7 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#717171;
   margin-top:-0.3em;
   display:block;
 }
@@ -312,4 +312,12 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.highlight {
+  background-color: #fff;
+}
+
+.highlight .c1 {
+  color: #77776a;
 }
