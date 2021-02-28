@@ -321,3 +321,10 @@ footer {
 .highlight .c1 {
   color: #77776a;
 }
+
+.title {
+  display: block;
+  font-weight: bold;
+  font-size: 2em;
+  @extend h1;
+}
