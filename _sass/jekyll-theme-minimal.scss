@@ -329,3 +329,7 @@ footer {
 video {
   @extend img;
 }
+
+a > img {
+  margin: 3px;
+}
