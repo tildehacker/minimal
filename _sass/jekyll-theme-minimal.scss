@@ -325,3 +325,7 @@ footer {
 .highlight .nb {
   color: #077fa7;
 }
+
+video {
+  @extend img;
+}
